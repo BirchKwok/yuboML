@@ -1,5 +1,5 @@
 # 《Python3 机器学习经典算法入门》
-##Numpy基础
+## Numpy基础
 **此部分介绍Numpy的基础操作。**
 
 **包括Numpy数据基础、创建Numpy数组（和矩阵）以及array的基本操作、合并与分割，Numpy中的矩阵运算、聚合运算、arg索引运算、比较和fancy indexing等。**
